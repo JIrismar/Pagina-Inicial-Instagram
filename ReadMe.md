@@ -1,4 +1,4 @@
-#Recriando a página inicial do Instagram.
+# Recriando a página inicial do Instagram.
 
-#####Página  de login  do Instagram:  Usando CSS Flexbox e responsividade;
+### Página  de login  do Instagram:  Usando CSS Flexbox e responsividade;
 
